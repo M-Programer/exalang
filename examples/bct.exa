@@ -1,0 +1,13 @@
+NOTE FILE 200, INSTRUCTION-STRING
+MAKE
+DROP
+
+NOTE FILE 201, DATA-STRING
+MAKE
+DROP
+
+NOTE GRAB will make you able to make your files with custom names! Because..
+;..If the file doesn't exist, it creates the file with the argument passed as the name!!
+GRAB some FILEnaMe ; choose any valid file name!
+;  but the name will be all caps and without spaces
+DROP
